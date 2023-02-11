@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, CSS, JavaScrpit**
 
-- 💬 Ask me about **Python, HTML, C**
+- 💬 Ask me about **Python, HTML, C, CSS and Kali Linux Tools**
 
 - 📫 How to reach me **ashwanisingh7930@gmail.com**
 
